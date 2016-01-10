@@ -1,3 +1,5 @@
+[test link](test-dir/)
+
 Pass the message
 
 Tomas has found out that in one hour there will be a free acting class by a famous actor. He’s going to attend and wants to invite his friends from his evening acting class.
